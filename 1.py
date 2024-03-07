@@ -6,3 +6,7 @@ for i in a:
         b.append(i)
 print(b)
 
+#new then deleted
+
+a = int(input("Enter a num: "))
+
