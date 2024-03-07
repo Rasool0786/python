@@ -7,3 +7,5 @@ for i in a:
 print(b)
 
 #new then deleted
+
+a = int(input("Enter a num: "))
