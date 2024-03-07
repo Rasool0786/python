@@ -9,3 +9,5 @@ print(b)
 #new then deleted
 
 a = int(input("Enter a num: "))
+
+print(f"{a}")
