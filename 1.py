@@ -5,3 +5,5 @@ for i in a:
     if 'm' in i:
         b.append(i)
 print(b)
+
+#new then deleted
